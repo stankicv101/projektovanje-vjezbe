@@ -1,0 +1,21 @@
+*{
+    font-family: "Poppins", sans-serif;
+}
+
+.w3-teal{
+    display:flex;
+}
+
+table{
+    margin-top:20px;
+    border:1px solid black;
+}
+
+th{
+    background-color: rgb(45, 175, 164) !important;
+}
+
+.action-button:hover{
+    cursor: pointer;
+}
+

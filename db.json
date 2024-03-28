@@ -1,0 +1,28 @@
+{
+    "vozila":[
+        {
+            "id":1,
+            "tip":"limuzina",
+            "marka":"vw",
+            "model":"golf",
+            "registracija":"123-A-321",
+            "kubikaza":2000
+        },
+        {
+            "id":2,
+            "tip":"limuzina",
+            "marka":"audi",
+            "model":"R8",
+            "registracija":"122-B-111",
+            "kubikaza":2500
+        },
+        {
+            "id":3,
+            "tip":"karavan",
+            "marka":"mercedes",
+            "model":"C200",
+            "registracija":"111-A-333",
+            "kubikaza":2500
+        }
+    ]
+}
